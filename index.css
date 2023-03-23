@@ -52,7 +52,7 @@ body{
 .info h6{
     width: 100%;
     margin-top: 5px;
-    margin-left: 13px;
+
 }
 
 h1{
@@ -64,11 +64,13 @@ h5{
 h6{
     color: rgb(255, 255, 255);
 }
-a{
+.info a{
+    width: 100%;
     margin-top: -230px;
     background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
     padding: 13px 100px;
     border-radius: 100px;
     font-size: 20px;
+    
 }
