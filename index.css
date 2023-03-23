@@ -64,8 +64,7 @@ h5{
 h6{
     color: rgb(255, 255, 255);
 }
-.info a{
-    width: 100%;
+a{
     margin-top: -230px;
     background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
