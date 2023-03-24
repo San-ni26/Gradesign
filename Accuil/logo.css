@@ -7,9 +7,9 @@
     justify-content: center;
 }
 .cont .cont_final{
-    width: 88%;
+    width: 97%;
     height: 96%;
-    background: rgb(214, 214, 214);
+    border: 1px solid black;
 }
 .cont_final .texte_logo {
     height: 70px;
