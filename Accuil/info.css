@@ -65,7 +65,7 @@
     width: 70%;
     display: flex;
     flex-wrap: wrap;
-    margin-top: -60px;
+    margin-top: -20px;
 }
 .information_clie h1{
     width: 100%;
@@ -78,14 +78,16 @@
 .information_clie input{
     width: 100%;
     margin-top: 2px;
-    margin-bottom: 5px;
-    padding: 7px;
+    margin-bottom: 8px;
+    padding: 10px;
     border-radius: 100px;
     border: none;
 }
 
 .information_clie .submit{
     width: 50%;
+    padding: 10px;
+    margin-top: 20px;
 }
 .information_clie h6{
     font-weight: 400;
