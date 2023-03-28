@@ -65,7 +65,7 @@
     width: 70%;
     display: flex;
     flex-wrap: wrap;
-    margin-top: -20px;
+    margin-top: -10px;
 }
 .information_clie h1{
     width: 100%;
@@ -88,9 +88,11 @@
     width: 50%;
     padding: 10px;
     margin-top: 20px;
+    background-color: rgb(255, 255, 255);
 }
 .information_clie h6{
-    font-weight: 400;
+    font-size: 10px;
+    font-weight: 500;
     color: rgb(255, 255, 255);
 }
 /*........................*/
