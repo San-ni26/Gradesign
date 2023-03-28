@@ -1,5 +1,6 @@
 .bloc_info{
     margin-top: 0px;
+    display: flex;
 }
 .lien_bloc_une{
     width: 100%;
