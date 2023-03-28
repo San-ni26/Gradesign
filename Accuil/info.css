@@ -10,7 +10,7 @@
 }
 
 .bloc_une{
-    width: 95%;
+    width: 89%;
     height: 90%;
     background-color: rgb(240, 240, 240);
 }
@@ -35,9 +35,9 @@
 }
 .commentair h3{
     color: rgb(140, 140, 140);
-    font-size: 15px;
+    font-size: 13px;
     margin-top: 10px;
-    font-weight: 300;
+    font-weight: 400;
 }
 .commentair h6{
     color: rgb(140, 140, 140);
