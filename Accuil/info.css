@@ -19,18 +19,18 @@
 }
 .img_illustr img{
     width: 100%;
-    height: 200px;
+    height: 250px;
     object-fit: cover;
 }
 .commentair {
-    margin-top: 30px;
+    margin-top: 0px;
     text-align: center;
     color: aliceblue;
 }
 .commentair h1{
     color: black;
     font-size: 20px;
-    margin-top: 20px;
+    margin-top: 10px;
     font-weight: 500;
 }
 .commentair h3{
